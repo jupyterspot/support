@@ -1,2 +1,6 @@
-# support
-Issues and feature requests
+# JupyterSpot Support
+* If you want to report a problem, [open an issue](https://github.com/jupyterspot/support/issues/new/choose) on this repo.
+* If you have a question, feedback, feature request or generally want to discuss something, [head over to discussions](https://github.com/jupyterspot/support/discussions).
+* We're building in the open. You can view [upcoming features](https://github.com/jupyterspot/support/issues?q=is%3Aopen+is%3Aissue+label%3A%22Feature+Request%22+sort%3Acreated-desc), vote on them, and even request a new one.
+
+[Visit the homepage](https://www.jupyterspot.com/) for more information.
